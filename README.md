@@ -90,7 +90,7 @@
 ## 🎥 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPGe/giphy.gif" width="600"/>
+    <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPGe/giphy.gif" width="600"/>
 </p>
 
 ---
