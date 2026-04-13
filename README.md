@@ -74,7 +74,7 @@
 ## 🎥 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="600" alt="Preview — Alliance Tech System" />
+  <img src="https://media.giphy.com/media/UkOWwj9DnP5rCb5djM/giphy.gif" width="600" alt="Preview — coding (SheCodes)" />
 </p>
 
 ---
