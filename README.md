@@ -98,7 +98,7 @@
 ## 🌍 Work Lifestyle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3NyvreZAtNLrNKTrKa/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3NyvreZAtNLrNKTrKa/giphy.gif"
 </p>
 
 ⭐ Se curtir meus projetos, deixa uma estrela!
