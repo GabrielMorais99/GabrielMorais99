@@ -74,7 +74,7 @@
 ## 🎥 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UkOWwj9DnP5rCb5djM/giphy.gif" width="600" alt="Preview — coding (SheCodes)" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Preview" />
 </p>
 
 ---
