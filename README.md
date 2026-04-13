@@ -44,8 +44,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMorais99&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorais99&layout=compact&theme=tokyonight"/>
+  <img height="180em" alt="GitHub stats" src="https://readme-stats-fast.vercel.app/api?username=GabrielMorais99&show_icons=true&theme=tokyonight" />
+  <img height="180em" alt="Top languages" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=GabrielMorais99&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ## 🎥 Preview
 
 <p align="center">
-    <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPGe/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Preview" />
 </p>
 
 ---
@@ -98,7 +98,7 @@
 ## 🌍 Work Lifestyle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3NyvreZAtNLrNKTrKa/giphy.gif"
+  <img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" width="600" alt="Work lifestyle — WordCamp Athens" />
 </p>
 
 ⭐ Se curtir meus projetos, deixa uma estrela!
