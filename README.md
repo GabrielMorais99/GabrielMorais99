@@ -71,26 +71,10 @@
 
 ---
 
-## 🧠 Atualmente estudando
-
-- Arquitetura de Microserviços
-- Clean Architecture
-- Cloud (Azure)
-
----
-
-## ⚡ Curiosidades
-
-🏊‍♂️ Gosto de natação  
-🌎 Amo viajar (Brasil, Argentina, EUA)  
-🎬 Curto séries e tecnologia
-
----
-
 ## 🎥 Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Preview" />
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="600" alt="Preview — Alliance Tech System" />
 </p>
 
 ---
